@@ -1,9 +1,7 @@
 bbbbbbbb
 cccccccc
-<<<<<<< HEAD
 dddddddd
 eeeeeeee
-=======
 bobby branch
 bobby branch2
->>>>>>> bobby_branch
+
